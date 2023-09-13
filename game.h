@@ -1,6 +1,3 @@
-/* Project by ANAVI SOMANI Rollno: 05 and RIHA SANJAY KOKODE Rollno: 36 */
-
-
 // Header file for QUIZ GAME
 
 // declaring struct
