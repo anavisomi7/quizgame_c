@@ -1,4 +1,4 @@
-/* Project quiz_game by ANAVI SOMANI Rollno: 05 and RIHA SANJAY KOKODE Rollno: 36 */
+/* Project quiz_game */
 
 
 #include<stdio.h>
